@@ -1,0 +1,41 @@
+{
+  "books":
+  [
+    {
+      "title":"IT",
+      "author":"Stephen King",
+      "coverImage":"img/it-cover.jpg",
+      "summary":"Jack Torrence's new job at the Overlook Hotel...",
+      "reviews":
+      [
+        "This is my first review in the array",
+        "This is my second review in the array",
+        "This is my THIRDDDD view in the array!"
+      ]
+    },
+    {
+      "title":"Misery",
+      "author":"Stephen King",
+      "coverImage":"img/misery-cover.jpg",
+      "summary":"Lady kidnaps an author and it's crazy...",
+      "reviews":
+      [
+        "This is my first review in the array",
+        "This is my second review in the array",
+        "This is my THIRDDDD view in the array!"
+      ]
+    },
+    {
+      "title":"The Stand",
+      "author":"Stephen King",
+      "coverImage":"img/stand-cover.jpg",
+      "summary":"Well, it's hard to explain.",
+      "reviews":
+      [
+        "This is my first review in the array",
+        "This is my second review in the array",
+        "This is my THIRDDDD view in the array!"
+      ]
+    }
+  ]
+}
