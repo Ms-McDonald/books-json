@@ -29,7 +29,7 @@ function showBooks(booksObj, x) {
 function showBookInfo(booksObj, x) {
   var book = booksObj.books[x];
   var authorID = "book" + x + "Author";
-  var reviewID = "book" + x + "Review";
+  var reviewID = "book" + x + "Reviews";
 
   document.getElementById(authorID).innerHTML = book.author;
   document.getElementById(reviewID).innerHTML = book.reviews[0];
