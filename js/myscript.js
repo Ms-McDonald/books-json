@@ -32,5 +32,5 @@ function showBookInfo(booksObj, x) {
   var reviewID = "book" + x + "Review";
 
   document.getElementById(authorID).innerHTML = book.author;
-  document.getElementById(reviewID).innerHTML = book.reviews;
+  document.getElementById(reviewID).innerHTML = book.reviews[0];
 }
